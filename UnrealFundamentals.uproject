@@ -28,5 +28,8 @@
 			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
